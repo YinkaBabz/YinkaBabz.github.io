@@ -10,7 +10,9 @@ title: About
 
 ### Contact Info
 For any questions, feedback or inquiries contact me at:
+
 E-mail: 15702111@emu.edu.tr
+
 Instagram: yinkababz
 
 ### Thank you!
