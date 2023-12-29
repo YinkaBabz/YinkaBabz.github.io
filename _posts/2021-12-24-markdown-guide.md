@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Markdown Guide
-subtitle: Resources to work with Markdown
-categories: markdown
-tags: [guide, markdown]
+title: Reflection
+subtitle: My relfitive opinions on cyber security and IOT
+categories: Reflection
+tags: [cyber security, IOT, Reflection]
 ---
 
 ## Resources
