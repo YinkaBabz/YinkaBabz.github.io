@@ -16,7 +16,7 @@ that help manage and audit risk and security issues.
 alerts and warning sites) to aid in the systematic analysis of security breaches and
 issues.
 
-## osattack2 program
+## whois program
   The whois program is used to grab information from the regional internet registry(RIR). It is used to find out who owns the IP address
 
   ![whois](/assets/images/banners/whois.jpeg)
@@ -24,6 +24,9 @@ issues.
   Note that when the wrong IP address is entered we don't get any results.
 
 ## ping
+
+  The ping utility relies on the Internet Control Message Protocol (ICMP) at the internet layer of TCP/IP. Its most basic use is to confirm network connectivity between two hosts. Ping sends out an ICMP echo request to which it expects an ICMP echo reply response.
+You can perform this test by using either the destination node's hostname or IP address
 
   ![ping](/assets/images/banners/ping.jpeg)
 
