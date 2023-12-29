@@ -2,7 +2,7 @@
 layout: post
 title: Scanning Activities
 subtitle: Perform a scan and vulnerability assesments.
-categories: Cyber Security
+categories: CyberSecurity
 tags: [Cyber Security, practicals, ethical hacking]
 ---
 
