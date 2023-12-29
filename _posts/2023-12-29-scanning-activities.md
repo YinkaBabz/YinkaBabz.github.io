@@ -16,4 +16,8 @@ that help manage and audit risk and security issues.
 alerts and warning sites) to aid in the systematic analysis of security breaches and
 issues.
 
+- whois program
+  The whois program is used to grab information from the regional internet registry(RIR). It is used to find out who owns the IP address
+
+  ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
 
